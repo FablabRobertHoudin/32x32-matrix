@@ -1,0 +1,13 @@
+AT+GMR
+AT version:0.23.0.0(Apr 24 2015 21:11:01)
+SDK version:1.0.1
+Ai-Thinker Technology Co. Ltd.
+Apr 27 2015 13:55:14
+
+
+R0 G0 B0 : top half of display
+R1 G1 B1 : bottom half of display
+A, B, C, D: which two rows 
+LAT(STB): mark end of row data
+CLK: mark arrival of data
+OE: switch off when one row to next

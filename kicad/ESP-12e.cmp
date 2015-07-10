@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 19/06/2015 14:14:54
+
+BeginCmp
+TimeStamp = /5584090E;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576CE37;
+Reference = P1;
+ValeurCmp = 32x32 RGB panel;
+IdModule  = pin_array_8x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576D327;
+Reference = P2;
+ValeurCmp = RXTX;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /55840359;
+Reference = P3;
+ValeurCmp = Alim 3.3V;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576DF19;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576DF87;
+Reference = SW2;
+ValeurCmp = Reflash;
+IdModule  = SW_PUSH_SMALL;
+EndCmp
+
+BeginCmp
+TimeStamp = /5576D27B;
+Reference = U1;
+ValeurCmp = ESP-12E;
+IdModule  = ESP-12e;
+EndCmp
+
+BeginCmp
+TimeStamp = /557C867A;
+Reference = U3;
+ValeurCmp = 4040;
+IdModule  = DIP-16__300;
+EndCmp
+
+EndListe
